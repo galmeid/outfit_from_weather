@@ -3,7 +3,7 @@ import sys
 import json
 import requests
 
-API_key = "9e5700429c16e0e07fe7ea27825fc13a"
+API_key = ""  # your API key from the website https://openweathermap.org/
 
 FIRST_LAYER_HOT_WEATHER = ["T-shirt", "Tanktop", "Crop top"]
 SECOND_LAYER_HOT_WEATHER = ["Cardigan", "Hoodie"]
